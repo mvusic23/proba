@@ -22,3 +22,12 @@ Repo za vjezbe
    nacin provjere - testni scenariji, da je apliakcija gotova kako bi to funkcioniralo, ako unesem podatke gdje ce me odvesti itd.
 
    uvijek izvjestaji grafikoni manji proritet
+
+   dohvaćanje - prikaz podatakta
+   unos - upisvanje nekakvih podataka
+   statističkih - neki grafikon
+
+   nefunkcionalni
+
+   izgled softvera - boje, itd
+   bilo koje domena - upotrebljivost softvera, performanse(npr 24 sata se može pristupit sustavu) 

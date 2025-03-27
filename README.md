@@ -31,3 +31,11 @@ Repo za vjezbe
 
    izgled softvera - boje, itd
    bilo koje domena - upotrebljivost softvera, performanse(npr 24 sata se može pristupit sustavu) 
+
+1.OBRANA LABOS 4????
+
+maknuti van ravnateljicu iz 1.1
+1.3 
+dodat gdpr u definicje što je to
+2.1 
+interakcija s bazom podataka

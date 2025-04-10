@@ -39,3 +39,15 @@ maknuti van ravnateljicu iz 1.1
 dodat gdpr u definicje što je to
 2.1 
 interakcija s bazom podataka
+
+10.4.2025
+
+lifeline(životna crta) - ako postoji samo crta bez aktivaciju onda nije istanciran
+aktivacija -
+
+Poruke - komunikacija iymedu dvije istance
+1. poruka stvaranja- isprekidana linija
+2. poruka trajanja - ozancava da nakon slanjne poruke porteken neko vrijeme
+3. rekurzivna - vise puta se salje
+4. izgubljena - ukoliko se zagubi prije nego kaj dode do drugoog objekta
+5. 

@@ -50,4 +50,19 @@ Poruke - komunikacija iymedu dvije istance
 2. poruka trajanja - ozancava da nakon slanjne poruke porteken neko vrijeme
 3. rekurzivna - vise puta se salje
 4. izgubljena - ukoliko se zagubi prije nego kaj dode do drugoog objekta
-5. 
+
+
+
+
+
+17.4.2025  labos 
+
++Govori(recenica : string) : byte[ ]
+(sto: tip podataka) : povratni tip operacija
+
+osnovna agregacija = slaba veza (predmet cini cijelinu, a student je u osnovnoj agregaciji, ukoliko obrisemo predmet studenti ce i dalje postojati)
+komopoizijca = jaka agregacija (zivotni ciklus, 2 klase su povezani, fakultet i katedra, ako obrisemo fakultet(koji cini cijelinu), nema smisla za postojanje katedre)
+generalizacija = nasljeđivanje (govori o tome da postoji neka opcenta klasa, koju mogu nasjediit ostale klase koji dijele neka ista svojvstva(osoba, student, prof))
+realizacija = koristit se ako imamo sucelja (i sucelje i apstraktne klase su klase koje se ne mogu inicijalizirati, mogu se samo nasljediit, apstraktna klasa moze sadrzavati metode, kod sucelja nema toga onon samo propisuje koja metoda ce se morati nasljediti), 
+
+izrada klasa na razini domene (ne treba u zadaćama)
